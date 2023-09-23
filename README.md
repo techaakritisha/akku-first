@@ -1,2 +1,3 @@
 # akku-first
 This is my first Git Repository....
+Author ---> Aakriti Shakya
